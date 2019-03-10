@@ -1,0 +1,16 @@
+PODS:
+  - JJTestProject (0.1.0)
+
+DEPENDENCIES:
+  - JJTestProject (from `../`)
+
+EXTERNAL SOURCES:
+  JJTestProject:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JJTestProject: cc77a5bf871361acea0cbe8491000569ec21a62f
+
+PODFILE CHECKSUM: a2e11eb5d4a9fb09cb9fe91874740dca07193c78
+
+COCOAPODS: 1.5.3

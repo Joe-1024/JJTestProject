@@ -1,0 +1,22 @@
+{
+  "name": "JJTestProject",
+  "version": "0.1.0",
+  "summary": "A short description of JJTestProject.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cellregister@163.com/JJTestProject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cellregister@163.com": "OwlJone@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/cellregister@163.com/JJTestProject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JJTestProject/Classes/**/*"
+}

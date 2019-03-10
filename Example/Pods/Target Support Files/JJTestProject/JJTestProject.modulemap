@@ -1,0 +1,6 @@
+framework module JJTestProject {
+  umbrella header "JJTestProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
